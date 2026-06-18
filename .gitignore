@@ -1,0 +1,9 @@
+# Release binaries are attached to GitHub Releases, never committed to the tree
+*.exe
+*.dmg
+*.zip
+*.blockmap
+
+# OS junk
+.DS_Store
+Thumbs.db

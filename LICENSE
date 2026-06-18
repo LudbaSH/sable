@@ -1,0 +1,65 @@
+Sable - Proprietary Software License
+
+Copyright (c) 2026 Abdelrahman Sheibani. All rights reserved.
+
+This software (the "Software") is the proprietary and confidential property of
+Abdelrahman Sheibani (the "Author"). The Software is licensed, not sold. The
+source code is not published; this repository hosts official builds, release
+notes, and the issue tracker only.
+
+1. Grant of license
+
+Subject to these terms, the Author grants an end user who lawfully obtains an
+official build of the Software a personal, non-exclusive, non-transferable,
+revocable license to install and use that build on devices they own or control,
+for their own personal use.
+
+2. Restrictions
+
+Except to the extent this restriction is prohibited by applicable law, you may
+not, without the Author's prior written permission:
+
+  a. copy, publish, distribute, sublicense, sell, rent, lease, or otherwise make
+     the Software available to any third party;
+  b. modify, adapt, translate, or create derivative works of the Software;
+  c. reverse engineer, decompile, or disassemble the Software, or attempt to
+     derive its source code, except where such activity is expressly permitted
+     by applicable law;
+  d. remove, alter, or obscure any copyright, trademark, or other proprietary
+     notices;
+  e. rebrand, rename, or pass off the Software or any part of it as your own, or
+     use the "Sable" name, logo, or branding except to refer to this Software.
+
+3. Ownership
+
+The Author retains all right, title, and interest in and to the Software,
+including all intellectual property rights. No rights are granted except those
+expressly set out in this license. The "Sable" name and logo are trademarks of
+the Author.
+
+4. Your data
+
+The Software stores your data locally on your own device. The Author does not
+collect, transmit, or have access to that data.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination
+
+This license terminates automatically if you breach any of its terms. On
+termination you must stop using the Software and destroy all copies in your
+possession.
+
+For permissions beyond the scope of this license, contact:
+sablesupporthq@gmail.com
